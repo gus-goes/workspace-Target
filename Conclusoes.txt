@@ -1,0 +1,13 @@
+Nesse .txt irei dar as conclusões de todas as questao e explicar elas.
+
+Questão 1: O codigo descrito na tabela de questões é uma implementaçao de loop usando o while, para somar os numeros de 1 até 13.
+
+Questão 2: A função pertence_fibonacci utiliza a definiçao recursiva da sequência de pertence_fibonacci
+para verficiar se um número pertence a ela.
+
+Questão 3: O codigo filtra os dias com faturamento zero, calcula a média e identifica os dias com 
+valores acima da média.
+
+Questão 4: O código calcula o percentual de cada estado fornecido, em relaçao ao faturamento total.
+
+Questão 5: O código inverte a string percorrendo-a de trás para frente.

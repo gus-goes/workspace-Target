@@ -1,0 +1,9 @@
+O código realiza uma soma cumulativa dos números de 1 até 13.
+
+Explicação:
+A variável INDICE controla até onde a soma irá.
+A variável K é um contador que inicia em 0 e é incrementado a cada iteração do loop.
+A variável SOMA acumula a soma de todos os valores de K até o momento.
+
+
+Resposta: Ao final do processamento, o valor da variável SOMA será 91.
